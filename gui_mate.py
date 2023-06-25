@@ -6,7 +6,6 @@ import cli_mate
 ctk.set_appearance_mode('system')
 ctk.set_default_color_theme('blue')
 
-
 class App(ctk.CTk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
