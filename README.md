@@ -39,7 +39,7 @@ python cli_mate.py --city "New Delhi"
 ### CLI with Coordinates
 
 ```shell
-python cli_mate.py --lat 28.6139 --lon 77.2090
+python cli_mate.py -lat 28.6139 -lon 77.2090
 ```
 
 ### GUI
