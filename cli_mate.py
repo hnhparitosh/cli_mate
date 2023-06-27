@@ -52,7 +52,7 @@ def print_weather(data):
     print('🌡️  Temperature:\t' + str(data['main']['temp'])+'°C')
     print('💧  Humidity:\t\t' + str(data['main']['humidity'])+' %')
     print('💨  Wind speed:\t\t' + str(data['wind']['speed'])+' m/s')
-    print('🧊 Pressure:\t\t' + str(data['main']['pressure'])+' hPa')
+    print('🧊  Pressure:\t\t' + str(data['main']['pressure'])+' hPa')
     
 
 # write main function to take in command line arguments using argparse
