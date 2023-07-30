@@ -2,14 +2,14 @@
 
 This is a simple tool to get the weather information of a city using the [OpenWeatherMap](https://openweathermap.org/api) API.
 
-You can use `CLI-Mate`, the CLI tool to get the weather updates using a `City Name` or the `Coordintes`, or use `GUI-Mate`, the GUI tool to get the weather information by using a `Map View`.
+You can use `CLI-Mate`, the CLI tool to get the weather updates using a `City Name` or the `Coordinates`, or use `GUI-Mate`, the GUI tool to get the weather information by using a `Map View`.
 
 ## Technologies used
 
 * [OpenWeatherMap API](https://openweathermap.org/api) - To fetch the weather information.
-* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter.
-* [TkinterMapView](https://github.com/TomSchimansky/TkinterMapView) - A python Tkinter widget to display tile based maps.
-* [Github Copilot](https://copilot.github.com/) - To autocomplete and generate code.
+* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable Python UI library based on Tkinter.
+* [TkinterMapView](https://github.com/TomSchimansky/TkinterMapView) - A Python Tkinter widget to display tile-based maps.
+* [Github Copilot](https://copilot.github.com/) - To get autocomplete code suggestions 😅.
 
 
 ## Installation
